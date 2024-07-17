@@ -1,7 +1,5 @@
 gTTS
-huggingface-hub
+transformers
 streamlit
 torch
-torchaudio
-torchvision
-transformers
+
