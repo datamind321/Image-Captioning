@@ -1,4 +1,0 @@
-gTTS
-transformers
-torch
-
